@@ -1,12 +1,7 @@
 # MLP301x_1.2-A_VN Giới thiệu về Học máy - Assignment 1
 ## Hướng dẫn sử dụng `project`
 
-1. Cài đặt thư viện:
-    ```
-    pip install -r requirements.txt
-    ```
-
-2. Khởi chạy project;
+1. Khởi chạy project;
     ```
     cd DataFiles
     python3 dang_trong_grade_the_exams.py
@@ -14,7 +9,8 @@
    
    Sau đó nhập vào tên file để analytics. VD: class1 hoặc class1.txt
 
-3. Kết quả demo:
+
+2. Kết quả demo:
     ```
     cd DataFiles
     python3 dang_trong_grade_the_exams.py
