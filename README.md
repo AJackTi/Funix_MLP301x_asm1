@@ -8,14 +8,16 @@
 
 2. Khởi chạy project;
     ```
-    python3 Data\ Files/dang_trong_grade_the_exams.py
+    cd DataFiles
+    python3 dang_trong_grade_the_exams.py
     ```
    
    Sau đó nhập vào tên file để analytics. VD: class1 hoặc class1.txt
 
 3. Kết quả demo:
     ```
-    python3 Data\ Files/dang_trong_grade_the_exams.py
+    cd DataFiles
+    python3 dang_trong_grade_the_exams.py
     ```
     ```
     Enter a class file to grade (i.e. class1 for class1.txt): class1
